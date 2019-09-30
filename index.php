@@ -98,6 +98,7 @@
                                                 <li>English Elocution</li>
                                                 <li>Hindi Elocution</li>
                                                 <li>Standup Comedy</li>
+                                                <li>...and many more</li>
                                                 <!-- more items -->
                                             </ul>
                                         </div>
@@ -115,6 +116,8 @@
                                                 <li>Long Jump</li>
                                                 <li>Sprint</li>
                                                 <li>Squash</li>
+                                                <li>Chess</li>
+                                                <li>Bridge</li>
                                                 <!-- more items -->
                                             </ul>
                                         </div>
